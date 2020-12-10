@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.exe
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.deps.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.runtimeconfig.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\bin\Debug\netcoreapp3.1\CascadingBridgePattern.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.AssemblyInfo.cs
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CascadingBridgePattern\CascadingBridgePattern\obj\Debug\netcoreapp3.1\CascadingBridgePattern.genruntimeconfig.cache
